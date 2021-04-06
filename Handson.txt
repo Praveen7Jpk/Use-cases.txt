@@ -1,0 +1,4 @@
+Basic Test Scenrios of Gmail
+1.Login into user gmail account.
+2.Check on the inbox items.
+3.Sign out from gmail.
